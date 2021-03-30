@@ -1,0 +1,22 @@
+h1,
+p {
+  font-family: Lato;
+}
+.table,
+th,
+td {
+  border: 1px solid black;
+}
+.table-border1 {
+  width: 100%;
+}
+.thead-dark {
+  background-color: rgb(88, 72, 119);
+}
+
+.button-heading {
+  color: rgb(16, 16, 211);
+}
+.adddefect-border {
+  border: 1px solid black;
+}
